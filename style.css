@@ -272,7 +272,11 @@ body {
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
-  
+
+.card-text>a>img {
+    width: 350px;
+}
+
 .actions {
     margin-top: auto;
     align-self: flex-end;
